@@ -8,8 +8,7 @@ I love building solutions that bridge innovation and efficiency. From crafting s
 
 ## 🔍 About Me  
 - 🎓 **Engineering Student** | Passionate about AI, ML, and DSA  
-- 💻 **Currently Learning**: MERN Stack, AI/ML  
-- ⚡ **Core Skills**: Java, Python, JavaScript, C++, SQL  
+- 💻 **Currently Learning**: MERN Stack, AI/ML   
 - 🎯 **Tech Interests**: Web Development, AI/ML, Cloud Computing  
 - 🏆 **Competitive Coding**: Leetcode, CodeChef  
 
